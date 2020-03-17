@@ -92,7 +92,3 @@ class Polybius:
 
 
 # EOF
-
-made = Polybius().encipher("polybiussquareisnotthathard")
-print(made)
-print(Polybius().decipher(made))
